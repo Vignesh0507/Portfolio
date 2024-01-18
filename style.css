@@ -382,7 +382,7 @@ a{
 }
 .connect{
     display: flex;
-    gap: 20px;
+    gap: 15px;
     padding-top: 15px;
 }
 .connect i{
